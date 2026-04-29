@@ -1,5 +1,6 @@
-# RankFusion
+# Augernaut
 
-**Performance Marketing for Plumbers.**  
-We build local lead engines — not vanity dashboards.  
-👉 Visit: [RankFusion.com](https://rankfusion.com)
+**Contractor Marketing Agency — Google Ads, GBP & Local SEO for Home Service Businesses.**
+We help plumbers, HVAC, septic, and home service contractors dominate their local market.
+
+👉 Visit: [Augernaut.com](https://augernaut.com)
